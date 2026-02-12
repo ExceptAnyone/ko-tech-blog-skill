@@ -32,7 +32,7 @@
 ### Claude Code에서 설치
 
 ```bash
-/plugin marketplace add wjddks96/ko-tech-blog-skill
+/plugin marketplace add ExceptAnyone/ko-tech-blog-skill
 /plugin install ko-tech-blog
 ```
 
@@ -40,7 +40,7 @@
 
 1. 이 저장소를 클론합니다:
 ```bash
-git clone https://github.com/wjddks96/ko-tech-blog-skill.git
+git clone https://github.com/ExceptAnyone/ko-tech-blog-skill.git
 ```
 
 2. Claude Code 프로젝트의 `skills/` 디렉토리에 복사합니다:
@@ -453,8 +453,8 @@ MIT License - 자유롭게 사용, 수정, 배포하실 수 있습니다.
 ## 📞 문의
 
 - **작성자**: 장정안
-- **GitHub**: [@wjddks96](https://github.com/wjddks96)
-- **이슈**: [GitHub Issues](https://github.com/wjddks96/ko-tech-blog-skill/issues)
+- **GitHub**: [@ExceptAnyone](https://github.com/ExceptAnyone)
+- **이슈**: [GitHub Issues](https://github.com/ExceptAnyone/ko-tech-blog-skill/issues)
 
 ---
 
@@ -483,7 +483,7 @@ A Claude Code skill for writing Korean tech blog posts in [Toss Tech Blog](https
 
 ### Installation
 ```bash
-/plugin marketplace add wjddks96/ko-tech-blog-skill
+/plugin marketplace add ExceptAnyone/ko-tech-blog-skill
 /plugin install ko-tech-blog
 ```
 

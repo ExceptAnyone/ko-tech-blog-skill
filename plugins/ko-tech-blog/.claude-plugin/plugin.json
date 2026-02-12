@@ -1,0 +1,22 @@
+{
+  "name": "ko-tech-blog",
+  "description": "토스 기술블로그 스타일의 한국어 기술 블로그 글을 작성하는 스킬입니다.",
+  "version": "1.0.5",
+  "author": {
+    "name": "장정안",
+    "email": "wjddks96@naver.com"
+  },
+  "homepage": "https://github.com/ExceptAnyone/ko-tech-blog-skill",
+  "repository": "https://github.com/ExceptAnyone/ko-tech-blog-skill",
+  "license": "MIT",
+  "keywords": [
+    "korean",
+    "tech-blog",
+    "writing",
+    "toss",
+    "blog",
+    "skill",
+    "한국어",
+    "기술블로그"
+  ]
+}

@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "ko-tech-blog-marketplace",
+  "name": "ko-tech-blog",
   "owner": {
     "name": "장정안",
     "email": "wjddks96@naver.com"

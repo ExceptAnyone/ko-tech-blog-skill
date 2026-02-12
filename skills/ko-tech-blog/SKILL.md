@@ -1,6 +1,6 @@
 ---
 name: ko-tech-blog
-description: 토스 기술블로그 스타일의 한국어 기술 블로그 글을 작성하는 스킬입니다. 문제 해결 경험을 공감 → 문제 정의 → 단계적 해결 → 결과 → 배움 구조로 작성하며, 7단계 프로세스로 체계적인 글 작성을 지원합니다.
+description: This skill should be used when writing Korean tech blog posts in Toss style. Guides through 7-step process from empathy → problem definition → step-by-step solution → results → learnings, using conversational Korean tone with philosophical insights.
 ---
 
 # 한국어 기술 블로그 작성 스킬
